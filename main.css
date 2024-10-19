@@ -1,0 +1,14 @@
+body {
+    background: rgb(129, 129, 129);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden; /* remove scroll bars */
+    vertical-align: middle;
+}
+
+#audio {
+    background: black;
+    padding: 0px;
+    margin: 0px;
+    display: block;
+}
